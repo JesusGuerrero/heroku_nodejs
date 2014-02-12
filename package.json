@@ -1,0 +1,15 @@
+{
+  "name": "heroku-nodejs",
+  "version": "0.0.1",
+  "description": "A quick deployment of nodejs to heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Guerrero",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
+}
